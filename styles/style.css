@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  font-family: Karla,Helvetica,sans-serif;
+  color: #222;
+  -webkit-font-smoothing: antialiased;
+}
+.linktoprofile{
+  background-color: #3d3b3c;
+  height: 60px;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 16px;
+  text-align: center;
+}
+.btn-link{
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 700;
+  font-family: Karla,Helvetica,sans-serif;
+}
